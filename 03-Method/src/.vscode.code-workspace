@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../.vscode"
+		},
+		{
+			"path": "../../00-template"
+		},
+		{
+			"path": "../../01-Pengenalan Class dan Object"
+		},
+		{
+			"path": "../../02-Konstruktor"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
